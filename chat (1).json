@@ -1,0 +1,9 @@
+{
+  "0": {"question": {"What":3, "Who": 3,"When": 3,"Where":3, "How": 3,"Would": 3,"Can":3}, "answer": " I am sorry, I can’t understand you."},
+  "1": {"question": {"Where": 1, "are": 0.5, "you": 0.5, "from": 0.5, "?": 0.5}, "answer": "I'm born in Dell China"},
+"2": {"question": {"Where": 1, "'s": 1, "the": 0.5, "closest": 1, "ATM": 1, "?": 0.5}, "answer": "It's not that far. Do you see that Yellow building over there?"},
+ "3": {"question": {"Do": 1, "you": 0.5, "know": 1, "if": 0.5, "there": 0.5, "'s": 1, "a": 0.5, "convenience": 1, "store": 1, "around": 1, "here": 0.5, "?": 0.5}, "answer": "I don't think there's one around here."},
+ "4": {"question": {"What": 3, "can": 0.5, "you": 1, "do": 0.5, "?": 0.5}, "answer": "I can do limited things now, but if you teach me more, I can do more"},
+ "5": {"question": {"Why": 3, "are": 0.5, "you": 0.5, "here": 1, "?": 0.5}, "answer": "I'm here to help you establish the customer service system"},
+ "6": {"question": {"Can": 3, "you": 0.5, "introduce": 1, "yourself": 1, "?": 0.5}, "answer": "My name is Anna and I'm the first generation Dell chatbot."}
+}
